@@ -1,0 +1,394 @@
+[
+    {
+        "4 HEKTÁROS MEGMŰVELETLEN TERÜLET": {
+            "Ár": 5000,
+            "Letét/Jelzálog": 0,
+            "Előleg": 5000,
+            "Cashflow": 0
+        }
+    },
+    {
+        "8 HA FÖLDTERÜLET": {
+            "Ár": 20000,
+            "Letét/Jelzálog": 0,
+            "Előleg": 20000,
+            "Cashflow": 0
+        }
+    },
+    {
+        "APARTMAN HÁZ": [
+            {
+                "Ár": 350000,
+                "Letét/Jelzálog": 300000,
+                "Előleg": 50000,
+                "Cashflow": 2400
+            },
+            {
+                "Ár": 550000,
+                "Letét/Jelzálog": 500000,
+                "Előleg": 50000,
+                "Cashflow": 2800
+            },
+            {
+                "Ár": 575000,
+                "Letét/Jelzálog": 500000,
+                "Előleg": 75000,
+                "Cashflow": 3400
+            }
+        ]
+    },
+    {
+        "APARTMAN KOMPLEXUM": {
+            "Ár": 1200000,
+            "Letét/Jelzálog": 1000000,
+            "Előleg": 200000,
+            "Cashflow": 11000
+        }
+    },
+    {
+    "AUTOMATA ÜZLET": 
+    [
+        {
+            "Ár": 100000,
+            "Letét/Jelzálog": 80000,
+            "Előleg": 20000,
+            "Cashflow": 1600
+        },
+        {
+            "Ár": 125000,
+            "Letét/Jelzálog": 100000,
+            "Előleg": 25000,
+            "Cashflow": 1800
+        },
+        {
+            "Ár": 150000,
+            "Letét/Jelzálog": 120000,
+            "Előleg": 30000,
+            "Cashflow": 2500
+        },
+        {
+            "Ár": 200000,
+            "Letét/Jelzálog": 160000,
+            "Előleg": 40000,
+            "Cashflow": 2700
+        }
+    ]
+    },
+    {
+        "CSALÁDI HÁZ 3H/2F": [
+            {
+                "Ár": 50000,
+                "Letét/Jelzálog": 50000,
+                "Előleg": 0,
+                "Cashflow": -100
+            },
+            {
+                "Ár": 50000,
+                "Letét/Jelzálog": 50000,
+                "Előleg": 0,
+                "Cashflow": 100
+            },
+            {
+                "Ár": 50000,
+                "Letét/Jelzálog": 46000,
+                "Előleg": 4000,
+                "Cashflow": 200
+            },
+            {
+                "Ár": 65000,
+                "Letét/Jelzálog": 58000,
+                "Előleg": 7000,
+                "Cashflow": 150
+            },
+            {
+                "Ár": 65000,
+                "Letét/Jelzálog": 57000,
+                "Előleg": 8000,
+                "Cashflow": 300
+            },
+            {
+                "Ár": 65000,
+                "Letét/Jelzálog": 60000,
+                "Előleg": 5000,
+                "Cashflow": 160
+            },
+            {
+                "Ár": 67000,
+                "Letét/Jelzálog": 55000,
+                "Előleg": 12000,
+                "Cashflow": 400
+            },
+            {
+                "Ár": 70000,
+                "Letét/Jelzálog": 61000,
+                "Előleg": 9000,
+                "Cashflow": 300
+            },
+            {
+                "Ár": 70000,
+                "Letét/Jelzálog": 50000,
+                "Előleg": 20000,
+                "Cashflow": 500
+            },
+            {
+                "Ár": 75000,
+                "Letét/Jelzálog": 68000,
+                "Előleg": 7000,
+                "Cashflow": 300
+            },
+            {
+                "Ár": 115000,
+                "Letét/Jelzálog": 105000,
+                "Előleg": 10000,
+                "Cashflow": -100
+            },
+            {
+                "Ár": 125000,
+                "Letét/Jelzálog": 105000,
+                "Előleg": 20000,
+                "Cashflow": -100
+            },
+            {
+                "Ár": 50000,
+                "Letét/Jelzálog": 47000,
+                "Előleg": 3000,
+                "Cashflow": 100
+            }
+        ]
+    },
+    {
+    "AUTÓMOSÓ": {
+            "Ár": 350000,
+            "Letét/Jelzálog": 300000,
+            "Előleg": 50000,
+            "Cashflow": 1500
+        }
+        },
+        {
+    "CSENDESTÁRS": [
+            {
+                "Ár": 20000,
+                "Letét/Jelzálog": 0,
+                "Előleg": 20000,
+                "Cashflow": 800
+            },
+            {
+                "Ár": 25000,
+                "Letét/Jelzálog": 0,
+                "Előleg": 25000,
+                "Cashflow": 1000
+            },
+            {
+                "Ár": 30000,
+                "Letét/Jelzálog": 0,
+                "Előleg": 30000,
+                "Cashflow": 1000
+            },
+            {
+                "Ár": 30000,
+                "Letét/Jelzálog": 0,
+                "Előleg": 30000,
+                "Cashflow": 1500
+            }
+        ]
+    },
+    {
+        "GARZONLAKÁS 2H/1F": [
+            {
+                "Ár": 40000,
+                "Letét/Jelzálog": 36000,
+                "Előleg": 4000,
+                "Cashflow": 140
+            },
+            {
+                "Ár": 40000,
+                "Letét/Jelzálog": 35000,
+                "Előleg": 5000,
+                "Cashflow": 220
+            },
+            {
+                "Ár": 50000,
+                "Letét/Jelzálog": 45000,
+                "Előleg": 5000,
+                "Cashflow": 100
+            },
+            {
+                "Ár": 60000,
+                "Letét/Jelzálog": 55000,
+                "Előleg": 5000,
+                "Cashflow": -100
+            },
+            {
+                "Ár": 55000,
+                "Letét/Jelzálog": 50000,
+                "Előleg": 5000,
+                "Cashflow": 160
+            }
+        ]
+    },
+    {
+        "INDíTS EL EGY RÉSZIDŐS SAJÁT KISVÁLLALKOZÁST": {
+            "Ár": 3000,
+            "Letét/Jelzálog": 0,
+            "Előleg": 3000,
+            "Cashflow": 0
+        }
+    },
+    {
+        "KÉTLAKÁSOS HÁZ": [
+            {
+                "Ár": 45000,
+                "Letét/Jelzálog": 37000,
+                "Előleg": 8000,
+                "Cashflow": 320
+            },
+            {
+                "Ár": 50000,
+                "Letét/Jelzálog": 42000,
+                "Előleg": 8000,
+                "Cashflow": 240
+            },
+            {
+                "Ár": 60000,
+                "Letét/Jelzálog": 54000,
+                "Előleg": 6000,
+                "Cashflow": 300
+            },
+            {
+                "Ár": 60000,
+                "Letét/Jelzálog": 48000,
+                "Előleg": 12000,
+                "Cashflow": 400
+            },
+            {
+                "Ár": 70000,
+                "Letét/Jelzálog": 63000,
+                "Előleg": 7000,
+                "Cashflow": 140
+            }
+        ]
+    },
+    {
+        "NAGYSZERŰ LEHETŐSÉG 3H/2F": [
+            {
+                "Ár": 35000,
+                "Letét/Jelzálog": 33000,
+                "Előleg": 2000,
+                "Cashflow": 220
+            },
+            {
+                "Ár": 35000,
+                "Letét/Jelzálog": 33000,
+                "Előleg": 2000,
+                "Cashflow": 220
+            },
+            {
+                "Ár": 45000,
+                "Letét/Jelzálog": 43000,
+                "Előleg": 2000,
+                "Cashflow": 250
+            }
+        ]
+    },
+    {
+    "KIS BEVÁSÁRLÓ CSARNOK": {
+            "Ár": 50000,
+            "Letét/Jelzálog": 0,
+            "Előleg": 50000,
+            "Cashflow": 800
+        }
+    },
+    {
+    "NÉGYLAKÁSOS HÁZ": [
+            {
+                "Ár": 80000,
+                "Letét/Jelzálog": 60000,
+                "Előleg": 20000,
+                "Cashflow": 400
+            },
+            {
+                "Ár": 80000,
+                "Letét/Jelzálog": 64000,
+                "Előleg": 16000,
+                "Cashflow": 750
+            },
+            {
+                "Ár": 90000,
+                "Letét/Jelzálog": 75000,
+                "Előleg": 15000,
+                "Cashflow": 500
+            },
+            {
+                "Ár": 100000,
+                "Letét/Jelzálog": 80000,
+                "Előleg": 20000,
+                "Cashflow": 800
+            },
+            {
+                "Ár": 125000,
+                "Letét/Jelzálog": 110000,
+                "Előleg": 15000,
+                "Cashflow": 600
+            },
+            {
+                "Ár": 140000,
+                "Letét/Jelzálog": 108000,
+                "Előleg": 32000,
+                "Cashflow": 2000
+            }
+        ]
+    },
+    {
+    "KIS PANZIÓ": {
+        "Ár": 150000,
+        "Letét/Jelzálog": 120000,
+        "Előleg": 30000,
+        "Cashflow": 1000
+        }
+    },
+    {
+        "NYOLCLAKÁSOS HÁZ": [
+            {
+                "Ár": 160000,
+                "Letét/Jelzálog": 128000,
+                "Előleg": 32000,
+                "Cashflow": 1700
+            },
+            {
+                "Ár": 200000,
+                "Letét/Jelzálog": 160000,
+                "Előleg": 40000,
+                "Cashflow": 1600
+            },
+            {
+                "Ár": 220000,
+                "Letét/Jelzálog": 40000,
+                "Előleg": 180000,
+                "Cashflow": 1700
+            },
+            {
+                "Ár": 240000,
+                "Letét/Jelzálog": 200000,
+                "Előleg": 40000,
+                "Cashflow": 950
+            }
+        ]
+    },
+    {
+        "PIZZA FRANCHISE":
+            {
+                "Ár": 500000,
+                "Letét/Jelzálog": 400000,
+                "Előleg": 100000,
+                "Cashflow": 5000
+            }
+    },
+    {
+        "RITKA ARANY ÉRME": {
+            "Ár": 500,
+            "Letét/Jelzálog": 0,
+            "Előleg": 500,
+            "Cashflow": 0
+        }
+    }
+]
