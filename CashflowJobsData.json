@@ -1,0 +1,302 @@
+[
+    {
+        "Pilóta":
+            {
+                "Fizetés": 9500,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 2350,
+                "Lakás jelzálog törlesztése": 1330,
+                "Tandíjhitel törlesztése": 0,
+                "Autóhitel törlesztése": 300,
+                "Hitelkártya tartozás törlesztése": 660,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 2210,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 480,
+                "Havi készpénzáramlás": 2600,
+                "Megtakarítás": 400,
+                "Lakás jelzálog": 143000,
+                "Tandíjhitel": 0,
+                "Autóhitel": 15000,
+                "Hitelkártya tartozás": 22000,
+                "Áruhitel": 1000
+            }
+    },
+    {
+        "Üzleti menedzser": 
+            {
+                "Fizetés": 4600,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 910,
+                "Lakás jelzálog törlesztése": 700,
+                "Tandíjhitel törlesztése": 60,
+                "Autóhitel törlesztése": 120,
+                "Hitelkártya tartozás törlesztése": 90,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 1000,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 240,
+                "Havi készpénzáramlás": 1670,
+                "Megtakarítás": 400,
+                "Lakás jelzálog": 75000,
+                "Tandíjhitel": 12000,
+                "Autóhitel": 6000,
+                "Hitelkártya tartozás": 3000,
+                "Áruhitel": 1000
+            }
+        
+    },
+    {
+        "Orvos": 
+            {
+                "Fizetés": 13200,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 3420,
+                "Lakás jelzálog törlesztése": 1900,
+                "Tandíjhitel törlesztése": 750,
+                "Autóhitel törlesztése": 380,
+                "Hitelkártya tartozás törlesztése": 270,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 2880,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 640,
+                "Havi készpénzáramlás": 3550,
+                "Megtakarítás": 400,
+                "Lakás jelzálog": 202000,
+                "Tandíjhitel": 150000,
+                "Autóhitel": 19000,
+                "Hitelkártya tartozás": 9000,
+                "Áruhitel": 1000
+            }
+        
+    },
+    {
+        "Mérnök": 
+            {
+                "Fizetés": 4900,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 1050,
+                "Lakás jelzálog törlesztése": 700,
+                "Tandíjhitel törlesztése": 60,
+                "Autóhitel törlesztése": 140,
+                "Hitelkártya tartozás törlesztése": 120,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 1090,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 250,
+                "Havi készpénzáramlás": 1690,
+                "Megtakarítás": 400,
+                "Lakás jelzálog": 75000,
+                "Tandíjhitel": 12000,
+                "Autóhitel": 7000,
+                "Hitelkártya tartozás": 4000,
+                "Áruhitel": 1000
+            }
+        
+    },
+    {
+        "Portás": 
+            {
+                "Fizetés": 1600,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 280,
+                "Lakás jelzálog törlesztése": 200,
+                "Tandíjhitel törlesztése": 0,
+                "Autóhitel törlesztése": 60,
+                "Hitelkártya tartozás törlesztése": 60,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 300,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 70,
+                "Havi készpénzáramlás": 650,
+                "Megtakarítás": 560,
+                "Lakás jelzálog": 20000,
+                "Tandíjhitel": 0,
+                "Autóhitel": 4000,
+                "Hitelkártya tartozás": 2000,
+                "Áruhitel": 1000
+            }
+        
+    },
+    {
+        "Ügyvéd": 
+            {
+                "Fizetés": 7500,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 1830,
+                "Lakás jelzálog törlesztése": 1100,
+                "Tandíjhitel törlesztése": 390,
+                "Autóhitel törlesztése": 220,
+                "Hitelkártya tartozás törlesztése": 180,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 1650,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 380,
+                "Havi készpénzáramlás": 2080,
+                "Megtakarítás": 400,
+                "Lakás jelzálog": 115000,
+                "Tandíjhitel": 78000,
+                "Autóhitel": 11000,
+                "Hitelkártya tartozás": 6000,
+                "Áruhitel": 1000
+            }
+        
+    },
+    {
+        "Műszerész": 
+            {
+                "Fizetés": 2000,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 360,
+                "Lakás jelzálog törlesztése": 300,
+                "Tandíjhitel törlesztése": 0,
+                "Autóhitel törlesztése": 60,
+                "Hitelkártya tartozás törlesztése": 60,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 450,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 110,
+                "Havi készpénzáramlás": 720,
+                "Megtakarítás": 670,
+                "Lakás jelzálog": 31000,
+                "Tandíjhitel": 0,
+                "Autóhitel": 3000,
+                "Hitelkártya tartozás": 2000,
+                "Áruhitel": 1000
+            }
+        
+    },
+    {
+        "Ápoló": 
+            {
+                "Fizetés": 3100,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 600,
+                "Lakás jelzálog törlesztése": 400,
+                "Tandíjhitel törlesztése": 30,
+                "Autóhitel törlesztése": 100,
+                "Hitelkártya tartozás törlesztése": 90,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 710,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 170,
+                "Havi készpénzáramlás": 1120,
+                "Megtakarítás": 480,
+                "Lakás jelzálog": 47000,
+                "Tandíjhitel": 6000,
+                "Autóhitel": 5000,
+                "Hitelkártya tartozás": 3000,
+                "Áruhitel": 1000
+            }
+        
+    },
+    {
+        "Rendőrtiszt": 
+            {
+                "Fizetés": 3000,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 580,
+                "Lakás jelzálog törlesztése": 400,
+                "Tandíjhitel törlesztése": 0,
+                "Autóhitel törlesztése": 100,
+                "Hitelkártya tartozás törlesztése": 60,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 690,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 160,
+                "Havi készpénzáramlás": 1120,
+                "Megtakarítás": 520,
+                "Lakás jelzálog": 46000,
+                "Tandíjhitel": 0,
+                "Autóhitel": 5000,
+                "Hitelkártya tartozás": 2000,
+                "Áruhitel": 1000
+            }
+        
+    },
+    {
+        "Titkár": 
+            {
+                "Fizetés": 2500,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 460,
+                "Lakás jelzálog törlesztése": 400,
+                "Tandíjhitel törlesztése": 0,
+                "Autóhitel törlesztése": 80,
+                "Hitelkártya tartozás törlesztése": 60,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 570,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 140,
+                "Havi készpénzáramlás": 880,
+                "Megtakarítás": 710,
+                "Lakás jelzálog": 38000,
+                "Tandíjhitel": 0,
+                "Autóhitel": 4000,
+                "Hitelkártya tartozás": 2000,
+                "Áruhitel": 1000
+            }
+        
+    },
+    {
+        "Tanár": 
+            {
+                "Fizetés": 3300,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 630,
+                "Lakás jelzálog törlesztése": 500,
+                "Tandíjhitel törlesztése": 60,
+                "Autóhitel törlesztése": 100,
+                "Hitelkártya tartozás törlesztése": 90,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 760,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 180,
+                "Havi készpénzáramlás": 1110,
+                "Megtakarítás": 400,
+                "Lakás jelzálog": 50000,
+                "Tandíjhitel": 12000,
+                "Autóhitel": 5000,
+                "Hitelkártya tartozás": 3000,
+                "Áruhitel": 1000
+            }
+        
+    },
+    {
+        "Teherautó vezető": 
+            {
+                "Fizetés": 2500,
+                "Kamat/Osztalék": 0,
+                "Ingatlan/Üzlet": 0,
+                "Adók": 460,
+                "Lakás jelzálog törlesztése": 400,
+                "Tandíjhitel törlesztése": 0,
+                "Autóhitel törlesztése": 80,
+                "Hitelkártya tartozás törlesztése": 60,
+                "Áruhitel törlesztése": 50,
+                "Egyéb költségek": 570,
+                "Kiadás gyermekekre": 0,
+                "Kiadás gyermekenként": 140,
+                "Havi készpénzáramlás": 880,
+                "Megtakarítás": 750,
+                "Lakás jelzálog": 38000,
+                "Tandíjhitel": 0,
+                "Autóhitel": 4000,
+                "Hitelkártya tartozás": 2000,
+                "Áruhitel": 1000
+            }
+        
+    }
+]
+
